@@ -35,9 +35,27 @@ A sociedade da informação traz consigo a área forense da computação pois no
 <br/>
 <p style="font-family:courier;">
 Especialistas Kaspersky (2018) costumam chamar os dispositivos móvel de "mina de ouro da justiça" devido eles dizerem muitas coisas a respeito de seu portador, trazem um completo histórico de chamadas recebidas, realizadas,rejeitadas, bloqueadas, mensagens de texto, fotos, vídeos e site visitados, aplicativos com banco de dados local, e aplicativos que sincronizam com a internet, todas essas informações precisamente com data hora e localização, eles contém mais informações sobre o portador do que o provedor de internet, ao informarem sua localização precisa ao fazerem triangulações entre torres de celular, em computação forense o perito especialista com a ajuda de um software especifico recupera todas as informações úteis do dispositivo, é valido lembrar que computadores e dispositivos continuam armazenando os arquivos deletados, podendo ser recuperados dentro de um período de tempo até que sejam sobrescritos, todo essa informação contida no aparelho poderá vir a se transforma em evidência digital, o que o vídeo da pericia realizada no Smartphone do acusado nos mostra claramente que os vestígios coletados de seu aparelho municiou o perito para ter uma prova concisa permitindo a justiça identificar o erro na investigação e o mesmo ser absolvido no seu julgamento.
-    Finalizo com uma ótima explicação que foi dada por Amber Schroader na Forensics Europe Expo em Londres no ano de 2016 relacionando a tecnologia e justiça, com os seguintes dizeres "Smartphones se tornaram os dispositivos primários para rastrear evidências digitais, devido à acessibilidade e capacidade perfeitas para identificar suspeitos potenciais".
+    Finalizo com uma ótima explicação que foi dada por Amber Schroader na Forensics Europe Expo em Londres no ano de 2016 relacionando a tecnologia e justiça, com os seguintes dizeres <strong>"Smartphones se tornaram os dispositivos primários para rastrear evidências digitais, devido à acessibilidade e capacidade perfeitas para identificar suspeitos potenciais"</strong> .
 <p>
  <br/><br/>
+<hr size="1" />
+<table>
+  <tr>
+    <td style="font-family:tahoma,arial,verdana; font-size:11px; text-align:center" valign="top">
+      <a href="https://www.SEUSITE.com.br" target="_blank"><img src="https://static.wixstatic.com/media/4d4087_c75d49961b5948d3b42c755b7a000209~mv2.png/v1/fill/w_172,h_108,al_c,q_80,usm_0.66_1.00_0.01/logo.webp" border="0" /></a>
+    </td>
+    <td style="font-family:tahoma,arial,verdana; font-size:12px; padding-left:10px">
+      <strong>Arthur Luiz Dias Siqueira</strong>
+      <br />
+      <strong>Faculdade:</strong><a href="https://www.bluead.com.br//" target="_blank"> BLUEAD</a> 
+      <br />
+      <strong>Curso:</strong> Cyber Forensics
+      <br />
+      <strong>E-mail:</strong> tutsluiz@hotmail.com</a>
+      <br />
+      <strong>Twitter:</strong>@tutsluiz
+      <br /></td> </tr></table>
+<br/><br/><br/>
  
 <h3><em>Bibliografia:</em></h3>
 <br/><br/>
