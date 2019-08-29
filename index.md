@@ -38,20 +38,22 @@ Especialistas Kaspersky (2018) costumam chamar os dispositivos móvel de "mina d
     Finalizo com uma ótima explicação que foi dada por Amber Schroader na Forensics Europe Expo em Londres no ano de 2016 relacionando a tecnologia e justiça, com os seguintes dizeres <strong>"Smartphones se tornaram os dispositivos primários para rastrear evidências digitais, devido à acessibilidade e capacidade perfeitas para identificar suspeitos potenciais"</strong> .
 <p>
  <br/><br/>
-<hr size="0" />
-<table>
+<hr size="2px" />
+<table style="width:100%">
   <tr>
-    <td style="font-family:tahoma,arial,verdana; font-size:14px; padding-left:15px">
+    <td style="font-family:tahoma,arial,verdana; font-size:18px; padding-left:20px">
       <strong>Arthur Luiz Dias Siqueira</strong>
       <br />
       <strong>Faculdade:</strong><a href="https://www.bluead.com.br/" target="_blank"> BLUEAD</a> 
       <br />
       <strong>Curso:</strong> Cyber Forensics
       <br />
-      <strong>E-mail:</strong> tutsluiz@hotmail.com</a>
+      <strong>E-mail:</strong> tutsluiz@hotmail.com
       <br />
       <strong>Twitter:</strong>@tutsluiz
-      <br /></td> </tr></table>
+      <br /></td> 
+   </tr>
+</table>
 <br/><br/><br/>
  
 <h3><em>Bibliografia:</em></h3>
